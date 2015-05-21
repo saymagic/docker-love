@@ -81,6 +81,15 @@ ul,ol{
   opacity: 1;
 }
 
+
+.say{
+    margin-top: 22px;
+    font-size: 18px;
+    font-family: "Monda", Georgia, sans-serif;
+    width: auto;
+    text-align: center;
+}
+
 @font-face {
   font-family: 'Rye';
   font-style: normal;
