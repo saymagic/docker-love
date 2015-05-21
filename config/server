@@ -1,0 +1,5 @@
+server{
+    listen 80;
+    root /nginx/www/love;
+    index index.html;
+}
